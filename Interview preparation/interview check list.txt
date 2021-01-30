@@ -1,0 +1,25 @@
+Topics:
+Interview Questions
+Software Testing Interview Questions
+Software Testing
+Software Development Life Cycle
+Software Testing Life Cycle
+Waterfall Model
+Spiral Model
+V Model
+GN__AutomationTesting_interview_questions
+TestNG Interview Questions
+Test Automation Framework Interview Questions
+Types of Test Automation Frameworks
+Page Object Model with Page Factory in Selenium
+Basic & Advanced Selenium Interview Questions
+Basic & Advanced SQL Interview Questions And Answers:
+OOPS in Automation Framework
+OOPS Concept in Java
+Most Frequently asked Java Interview Questions
+API Testing Interview Questions
+
+**************************************
+https://dilip-prasad-e.github.io/
+***************************************
+

@@ -1,0 +1,135 @@
+Java:
+1. Classes and Objects
+2. Constructor
+3. Static
+4. Polymorphism
+5. Inheritance
+6. Abstraction
+7. Collections
+8. ThreadLocal
+9. String class and manipulation
+10. Design Patterns
+
+Selenium:
+1. Desired Capabilities/Options
+2. Driver initiations(start,stop,quit)
+3. Maximize window
+4. Driver factory
+5. Pages
+6. Methods like findelement, findelements, sendkeys, Select
+7.Page Object Model
+8. Page Factory Model
+9. Interaction with excel file, xml file , property file
+10. Waits in selenium
+11. Element Locators
+12. Stale element reference exception
+
+TestNG:
+1. Annotations
+2. TestNG.xml
+3. Parallel execution
+4. Data Provider
+5. Running testng.xml through pom.xml
+6. Priority in testng
+
+Maven:
+1. Life cycle in maven
+2. Use of maven
+3. Dependency management
+4. commands to execute
+5. Pom.xml
+
+Git:
+1. What is git
+2. Use of git
+3. Push pull commit
+4. Rebase and merge
+5. Pull request
+
+Jenkins:
+1. Creation of job
+2. how to run job every 5 mins
+3. pre build and post build actions
+4. how to run maven commands
+5. how to run local code
+6. how to run code in github
+7. webhooks
+8. ci/cd pipeline
+
+Rest api:
+1. various response codes in api
+2. get, post,put, delete
+3. json manipulation using third party
+4. headers, cookies
+5. response and requests
+6. rest vs soap
+
+********************************************************************************
+
+java questions:
+
+1. explain oops concept
+2. difference between abstract class and interface
+3. lambda expression
+4. collection framework
+5. is duplicate value allowed in list
+6. if we want to store data in a particular order, which kind of collection interface or class do we use
+7. what is map
+8. difference between hashmap and hashtable
+9. how to get keys of data stored in map
+
+other questions:
+1. how code is pushed to bit bucket
+2. what operations could be performed in git
+3. teamcity or jenkin use
+4. bdd framework
+
+selenium:
+1. explain the packages you created in ur selenium testng framework and why you went for it
+2. explain page object model that you implemented in your framework
+3. explain how you used page factory
+4. how can you skip tests during execution
+5. how can you define dependencies between one test to another
+6. how was data provider implemented in ur framework
+7. why would use maven dependencies
+
+java:
+1. explain collection framework from whatever you have used
+2. difference between interface and abstract class
+3. method overloading vs method overriding
+
+have u worked on api automation ( especially with rest assured)
+have u worked on bdd framework
+
+selenium questions:
+1. explain selenium framework which u have worked on
+2. webdriver handling in classes implemented under page object model? why webdriver handling initiating through class constructor is better
+3. excel access through selenium
+4. any reporting tool available in selenium
+5. types of locators in selenium 
+6. linktext and partial link text locators
+7. return type of find elements
+8. waits in selenium? implicit and explicit wait
+9. how unit of time is passed to implicit wait
+10. explicit wait and expected conditions
+11. how check if an object present in web page is loaded
+12. switching between pages loaded in multiple tabs? switching back to base tab?
+13. working on frames?
+14. robot class
+15. how to mouse hover on an element in a webpage
+16. select class in selenium
+17. how to automate a windows popup to upload file on any website
+18. junit annotations
+19. testng annotations
+20. using excel with @ data provider in testng
+21. how to not execute any test in testng
+22. how to run a test only after some other is executed
+23. parameters in testng
+
+******************************************************************************************************************
+
+
+
+
+
+
