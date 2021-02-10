@@ -1,0 +1,48 @@
+General:
+Self Introduction
+Explain about your framework
+Versioning system used
+
+
+Selenium:
+Exceptions in selenium
+Types of locators in Selenium
+Return type of Find Elements
+Working on Frames
+webdriver
+absolute and relative xpath
+how will you identify frames if no id or name is mentioned
+how will you set variables for testng/drivers/maven in eclipse
+why webdriver is static
+why webdriver is an interface
+
+
+TestNG:
+how will you execute tests parallely
+
+Maven:
+how to change version for a jar file/ dependency
+Pom.xml
+mvn clean install
+will above work without clean or throw error
+
+chandan's mock interview:
+1. can we declare a constructor as private
+2. can we declare a constructor as static
+3. can we override a construstor
+4. return type of windowhandles
+5. listener for executing failed test cases automatically through testng(iretryanalyser was expected ans)
+
+Java:
+oops and collections
+TestNG
+Git,Github were expected
+
+after varsha : vivek -> mohanraj(international caller) called and interview happened
+9515862833
+9884921278
+
+abishek called then anita called for banking domain (emi related) : no technical questions were asked
+
+rajnish called for banking domain(debit card related) : technical questions were asked related to api's
+
